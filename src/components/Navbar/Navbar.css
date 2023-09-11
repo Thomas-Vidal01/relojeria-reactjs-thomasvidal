@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Dongle:wght@300&family=Montserrat:ital,wght@1,700&family=Open+Sans&family=Playfair+Display&family=Poppins:wght@200&display=swap');
+
+.toolbar-navbar{
+    background-color: rgb(34, 34, 34);
+    border: black 2px solid;
+    padding: 15px;
+}
+.boton-navbar{
+    text-decoration: none;
+    color: black;
+    padding: 20px;
+    padding-right: 20px;
+    font-size: 20px;
+    font-family: 'Open Sans', sans-serif;
+    transition: 0.5s;
+
+    display: flex;
+    flex-direction: column;
+}
