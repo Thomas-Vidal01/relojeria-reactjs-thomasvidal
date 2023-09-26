@@ -5,11 +5,14 @@ import { NavLink } from "react-router-dom";
 const Navbar = () => {
 
     return (
-        <AppBar sx={{ backgroundColor: "#33082E" }}>
+        <AppBar sx={{ backgroundColor: "black" }}>
             <Toolbar sx={{ display: "flex", justifyContent: "space-around" }}>
+                <Typography >
+                    WonderWatch
+                </Typography>
                 <NavLink className="navbar-link" to="/">
                     <Typography >
-                        Home/Categorías
+                        Inicio/Categorías
                     </Typography>
                 </NavLink>
                 <NavLink className="navbar-link" to="/products">

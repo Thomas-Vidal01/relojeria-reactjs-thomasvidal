@@ -1,14 +1,14 @@
 [
     {
     "id": 1,
-    "category": "Mujeres"
+    "category": "Piaget"
     },
     {
-    "id": 1,
-    "category": "Niños"
+    "id": 2,
+    "category": "Patek"
     },
     {
-    "id": 1,
-    "category": "Hombres"
+    "id": 3,
+    "category": "Omega"
     }
 ]

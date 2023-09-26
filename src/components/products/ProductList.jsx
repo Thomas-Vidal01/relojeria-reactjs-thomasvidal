@@ -11,7 +11,7 @@ const ProductList = () => {
 
 
     return (<div className="container">
-        <Typography variant="h2" style={{ color: "#8F8C8C" }}>
+        <Typography variant="h2" style={{ color : "black" }}>
             Productos
         </Typography>
         <Grid container spacing={3}>
